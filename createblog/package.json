@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "astro": "^5.4.2",
+    "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
   }
 }
